@@ -1,6 +1,7 @@
 baseURL = 'https://erdaxia.github.io/public/'
 languageCode = 'en-us'
 title = 'PUBLIC'
+theme = 'anatole'
 publishDir = "docs"
 
 [build]
