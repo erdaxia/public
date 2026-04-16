@@ -3,6 +3,6 @@ title: "Welcome"
 date: 2026-04-16
 ---
 
-# Welcome
+# antigravity 
 
 This is my public website powered by Hugo.
