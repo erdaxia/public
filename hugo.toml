@@ -1,0 +1,7 @@
+baseURL = 'https://erdaxia.github.io/public/'
+languageCode = 'en-us'
+title = 'PUBLIC'
+publishDir = "docs"
+
+[build]
+writeStats = true
